@@ -18,5 +18,8 @@
   "homepage": "https://github.com/storres8/express-api#readme",
   "devDependencies": {
     "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
